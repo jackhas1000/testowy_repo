@@ -1,6 +1,6 @@
 public class Test {
     public static void man(String[] args) {
-		System.out.println("test");
+		System.out.println("KATASTROFA");
 	}
 	
 	public String Test() {
